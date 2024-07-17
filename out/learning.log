@@ -1,0 +1,23 @@
+15:17:57,389 INFO  [Base] this is xml file Configratution
+15:18:03,672 INFO  [Base] Hello World!
+15:18:15,777 INFO  [Base] Auto Suggestion Select
+15:18:18,199 INFO  [Base] Dropdown select
+15:18:18,816 INFO  [Base] City Selected
+15:18:20,963 INFO  [Base] Dropdown selected
+15:18:23,257 INFO  [Base] Destination select
+15:18:25,517 INFO  [Base] One way Radio Button selected
+15:18:27,675 INFO  [Base] Cal Click
+15:18:30,055 INFO  [Base] Date Select
+15:18:32,431 INFO  [Base] Round way Radio Button Select
+15:18:34,581 INFO  [Base] Cal Click
+15:18:36,821 INFO  [Base] Next Click
+15:18:39,023 INFO  [Base] Round Date Select
+15:18:41,163 INFO  [Base] Return Cal Click
+15:18:43,307 INFO  [Base] Return Cal Click
+15:18:43,664 INFO  [Base] PassDropdown Item Selected
+15:18:46,088 INFO  [Base] Item Add
+15:18:46,198 INFO  [Base] Done button
+15:18:47,288 INFO  [Base] Dropdown Item Selected
+15:18:49,485 INFO  [Base] Checkbox selected
+15:18:51,627 INFO  [Base] Multicities selected
+15:19:00,343 INFO  [Base] Good bye
